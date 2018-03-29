@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\_MyGit\TipsTricks\TipsTricks\bin\Debug\TipsTricks.exe.config
+C:\Users\HP\Documents\_MyGit\TipsTricks\TipsTricks\bin\Debug\TipsTricks.exe
+C:\Users\HP\Documents\_MyGit\TipsTricks\TipsTricks\bin\Debug\TipsTricks.pdb
+C:\Users\HP\Documents\_MyGit\TipsTricks\TipsTricks\obj\Debug\TipsTricks.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\_MyGit\TipsTricks\TipsTricks\obj\Debug\TipsTricks.exe
+C:\Users\HP\Documents\_MyGit\TipsTricks\TipsTricks\obj\Debug\TipsTricks.pdb
